@@ -10,13 +10,12 @@ Here is the general format the data will be displayed as:<br/><br/>
 ![cmd_hFDP1DjSum](https://github.com/user-attachments/assets/f276b7fe-dafc-4773-bda4-b67032ab70dc)
 
 
-<br/>
-Here are the design flowcharts, if anyone is curious: <br/>
+
+## Here are the design flowcharts, if anyone is curious: 
 https://drive.google.com/drive/folders/1xPHhCPJqCguIFok1j0V7CAUQWGwHFB6q?usp=sharing
-
 <br/>
-![image](https://github.com/user-attachments/assets/448db2c3-66be-4fb9-afba-8e57eb7be5ed)
 
+![image](https://github.com/user-attachments/assets/448db2c3-66be-4fb9-afba-8e57eb7be5ed)
 <br/>
 Image credit: Brunel University London
 
