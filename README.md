@@ -15,7 +15,8 @@ Here are the design flowcharts, if anyone is curious: <br/>
 https://drive.google.com/drive/folders/1xPHhCPJqCguIFok1j0V7CAUQWGwHFB6q?usp=sharing
 
 <br/>
-![image](https://github.com/user-attachments/assets/1a999209-ba6c-466c-8708-4163b274e4f9)
+![image](https://github.com/user-attachments/assets/448db2c3-66be-4fb9-afba-8e57eb7be5ed)
+
 <br/>
 Image credit: Brunel University London
 
